@@ -535,3 +535,12 @@
 20:09:52.025 [main] INFO  Testcases.TC_001AccountRegistration - **** Finished TC_001AccountRegistration**** 
 20:09:56.095 [main] INFO  Testcases.TC_002Loginpage - *** Started TC_002Loginpage***
 20:09:57.956 [main] INFO  Testcases.TC_002Loginpage - *** Finished TC_002Loginpage***
+21:52:05.453 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\opencartv121\master.xml"
+21:52:09.514 [main] INFO  Testcases.TC_001AccountRegistration - **** Starting TC_001AccountRegistration**** 
+21:52:09.652 [main] INFO  Testcases.TC_001AccountRegistration - **** Clicked on my Account link**** 
+21:52:10.210 [main] INFO  Testcases.TC_001AccountRegistration - **** Clicked on my Register link**** 
+21:52:10.215 [main] INFO  Testcases.TC_001AccountRegistration - Providing Customer details 
+21:52:11.530 [main] INFO  Testcases.TC_001AccountRegistration - Validation expected message.. 
+21:52:11.583 [main] INFO  Testcases.TC_001AccountRegistration - **** Finished TC_001AccountRegistration**** 
+21:52:14.450 [main] INFO  Testcases.TC_002Loginpage - *** Started TC_002Loginpage***
+21:52:16.139 [main] INFO  Testcases.TC_002Loginpage - *** Finished TC_002Loginpage***
